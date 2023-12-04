@@ -1,4 +1,4 @@
-<table class="iksweb">
+<table>
 	<tbody>
     <tr>
 			<td><h1>Commands</h1></td>
