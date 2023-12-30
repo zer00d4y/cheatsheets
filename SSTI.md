@@ -5,9 +5,14 @@
 
 `{{7*7}}`
 
+`{{7*'7'}}`
+
 `{{config.items()}}`
 
 `{{config.from_object(‘os’)}}`
 
 `{{‘’.__class__.__mro__[1].__subclasses__()[284:]}}`
 
+`a{*comment*}b`
+
+`${"z".join("ab")}`
