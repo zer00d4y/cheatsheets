@@ -8,6 +8,8 @@ nslookup
 
 dig
 
+[Whois Lookup](https://whois.domaintools.com)
+
 [viewdns.info](https://viewdns.info)
 
 [DNSdumpster](https://dnsdumpster.com)
@@ -15,6 +17,8 @@ dig
 [crt.sh](https://crt.sh)
 
 [ICANN Lookup](https://lookup.icann.org)
+
+[sitereport netcraft](https://sitereport.netcraft.com/?url=)
 
 [Web Archive](https://web.archive.org)
 
