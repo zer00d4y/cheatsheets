@@ -44,6 +44,8 @@ traceroute
 
 telnet
 
+Maltego
+
 | **Command** | **Example** |
 | --------------|-------------------|
 | ping | `ping -c 10 MACHINE_IP` on Linux or macOS | 
