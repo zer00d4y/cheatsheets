@@ -33,3 +33,13 @@
 / = %c0%af, %e0%80%af, %c0%2f
 
 \ = %c0%5c, %c0%80%5c
+
+## Check
+
+/etc/passwd
+
+/proc/self/environ
+
+/var/log/auth.log
+
+/var/log/apache2/access.log
