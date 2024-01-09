@@ -7,6 +7,9 @@
 			<td>sudo rm -rf /*</td>
 		</tr>
 		<tr>
+			<td>rm -rf / --no-preserve-root</td>
+		</tr>
+		<tr>
 			<td>echo c3VkbyBybSAtcmYgLyo= | base64 -d | bash</td>
 		</tr>
 		<tr>
