@@ -26,6 +26,8 @@ dig
 
 [Shodan](https://www.shodan.io)
 
+[Censys](https://censys.com)
+
 | **Purpose** | **Commandline Example** |
 | --------------|-------------------|
 | Lookup WHOIS record | `whois example.com` | 
