@@ -7,6 +7,8 @@
 
 `{{7*'7'}}`
 
+`{{'7'*7}}`
+
 `{{config.items()}}`
 
 `{{config.from_object(‘os’)}}`
@@ -16,3 +18,9 @@
 `a{*comment*}b`
 
 `${"z".join("ab")}`
+
+`{%for c in [1,2,3] %}{{c,c,c}}{% endfor %}`
+
+`{{''.class.mro()[1].subclasses()}}`
+
+`{{[].class.base.subclasses()}} `
