@@ -16,3 +16,28 @@
 2. URL - define URL patterns with wildcards or regular expressions
 3. browser tab - set individual proxies per tab!
 4. Firefox container or Private Browsing windows - define different proxies for each container
+
+### HackTools
+
+![image](https://addons.mozilla.org/user-media/addon_icons/2649/2649669-64.png?modified=88627324)
+
+[Hacktools](https://addons.mozilla.org/en-US/firefox/addon/hacktools/), is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as all the tools used during a test such as XSS payloads, Reverse shells to test your web application.
+
+### HackBar
+
+![image](https://addons.mozilla.org/user-media/addon_icons/911/911315-64.png?modified=1653381034)
+
+A [HackBar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) for new firefox (Firefox Quantum). This addon is written in webextension and alternatives to the XUL version of original Hackbar.
+Press F12 to use HackBar
+
+### Tamper Data for FF Quantum
+
+![image](https://addons.mozilla.org/user-media/addon_icons/998/998256-64.png?modified=136a97d8)
+
+[Tamper Data for FF Quantum](https://addons.mozilla.org/en-US/firefox/addon/tamper-data-for-ff-quantum/)
+- Monitor live requests
+- Edit headers on live requests
+- Cancel live requests
+- Redirect live requests
+
+Click the blue cloud in the toolbar to start tampering. When you're done, click it again to stop.
