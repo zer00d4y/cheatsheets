@@ -41,3 +41,28 @@ Press F12 to use HackBar
 - Redirect live requests
 
 Click the blue cloud in the toolbar to start tampering. When you're done, click it again to stop.
+
+### User-Agent Switcher
+
+![image](https://addons.mozilla.org/user-media/addon_icons/812/812521-64.png?modified=1699730142)
+
+Easily override the browser's [User-Agent](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) string
+Easily pose as another browser by changing the User-Agent header.*
+
+Pretending to be a different browser can be useful in a number of different situations:
+Some web pages require you to log in or buy a subscription to view their content, but give full read access to search engines.
+Some web pages determine whether you're using a mobile or desktop browser based on your user-agent.
+Some web pages require you to use a specific browser to access their site.
+And potentially more…
+
+### Cookie-Editor
+
+![image](https://addons.mozilla.org/user-media/addon_icons/869/869585-64.png?modified=278a433f)
+
+[Cookie-Editor](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/) lets you efficiently create, edit and delete a cookie for the current tab. Perfect for developing, quickly testing or even manually managing your cookies for your privacy.
+
+### BuiltWith
+
+![image](https://addons.mozilla.org/user-media/addon_icons/8/8013-64.png?modified=1530782424)
+
+[BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/) is a web site profiler tool. Upon looking up a page, BuiltWith returns a list all the technologies in use on that page that it can find.
