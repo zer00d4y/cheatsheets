@@ -24,3 +24,9 @@
 `{{''.class.mro()[1].subclasses()}}`
 
 `{{[].class.base.subclasses()}} `
+
+---------------------------------------------------------------------------------------------------------------------
+
+To identify SSTI vulnerabilities, use a Polyglot payload composed of special characters commonly used in template expressions to fuzz the template.
+Polyglot: 
+- `${{<%[%'"}}%\.`
