@@ -66,3 +66,9 @@ And potentially more…
 ![image](https://addons.mozilla.org/user-media/addon_icons/8/8013-64.png?modified=1530782424)
 
 [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/) is a web site profiler tool. Upon looking up a page, BuiltWith returns a list all the technologies in use on that page that it can find.
+
+# Web Pentesting addons
+
+This collection contains add-on tools that can assist web developers in testing web applications for defects which compromise quality (Security, Performance, Functionality).
+
+https://addons.mozilla.org/en-US/firefox/collections/5549925/pro-web-developer-qa-pack/
