@@ -2,8 +2,14 @@
 
 | **Command** | **Description** |
 | --------------|-------------------|
-| `curl localhost` | Pings the application. | 
+| `docker -d` | Start the docker daemon |
+| `docker --help` | Get help with Docker. Can also use –help on all subcommands |
+| `docker info` | Display system-wide information |
 | `docker build` | Builds an image from a Dockerfile. |
+| `docker buildx` | Builds a Docker images for multiple architectures and platforms concurrently |
+| `docker buildx build -t <image_name> <file>` | Builds a Docker images for multiple architectures and platforms concurrently |
+| `docker build -t <image_name>` | Build an Image from a Dockerfile | 
+| `docker build -t <image_name> . –no-cache` | Build an Image from a Dockerfile without the cache |
 | `docker build . -t` | Builds the image and tags the image id. |
 | `docker CLI` | Start the Docker command line interface. |
 | `docker container rm`	| Removes a container. |
