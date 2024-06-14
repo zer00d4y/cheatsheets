@@ -14,6 +14,8 @@
 | `docker CLI` | Start the Docker command line interface. |
 | `docker container rm`	| Removes a container. |
 | `docker images` |	Lists the images. |
+| `docker rmi <image_name>` | Delete an Image |
+| `docker image prune` | Remove all unused images |
 | `docker ps`	| Lists the containers. |
 | `docker ps -a`	| Lists the containers that ran and exited successfully. |
 | `docker pull`	| Pulls the latest image or repository from a registry. |
