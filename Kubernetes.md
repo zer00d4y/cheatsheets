@@ -26,3 +26,5 @@
 | `kubectl rollout` | Manages the rollout of a resource. |
 | `kubectl rollout restart` | Restarts the resource so that the containers restart. |
 | `kubectl rollout undo` | Rollbacks the resource. |
+| `kubectl logs <pod-name>` | View pod logs. |
+| `kubectl logs -f <pod-name>` | View new generated pod logs. |
